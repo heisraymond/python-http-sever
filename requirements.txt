@@ -1,0 +1,4 @@
+# The server itself is stdlib-only (socket, threading, asyncio) — see docs/notes.md.
+# These are dev/test tooling only.
+pytest==8.3.3
+requests==2.32.3
